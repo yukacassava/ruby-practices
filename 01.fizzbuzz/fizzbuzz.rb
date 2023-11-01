@@ -10,4 +10,6 @@ elsif a % 3 == 0
 elsif
   puts a 
 end
-end 
+end
+
+ 
